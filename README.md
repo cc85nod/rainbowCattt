@@ -1,5 +1,5 @@
 # rainbowCattttt
-<img src="https://github.com/cc85nod/NyanCattt/blob/master/blob/the_rainbowwww.png" alt="alt text" width="1000" height="400">
+<img src="https://github.com/cc85nod/rainbowCattt/blob/master/blob/the_rainbowwww.png" alt="alt text" width="1000" height="400">
 
 ## how to use
 
